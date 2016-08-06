@@ -3,4 +3,4 @@ a shaking bell :)
 
 SAMPLE
 =====
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](video/Screenrecord.mp4)
+[![look at the bell on the toolbar](video)](http://shinelikeamillion.github.io/images/Screenrecord.mp4)
