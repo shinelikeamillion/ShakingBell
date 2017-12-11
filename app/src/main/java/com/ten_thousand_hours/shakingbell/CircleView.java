@@ -18,7 +18,6 @@ public class CircleView extends View {
 
     private Paint circlePaint = new Paint(Paint.ANTI_ALIAS_FLAG);
     private Paint circlePaint2 = new Paint(Paint.ANTI_ALIAS_FLAG);
-    private Paint textPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
     private int textPaintBaseLine;
     private Rect targetRect;
 
